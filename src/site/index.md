@@ -1,5 +1,5 @@
 ---
-title: the kid codes
-subtitle: coming soon..
+title: the kid codes.
+subtitle: coming. soon.
 layout: layouts/base.njk
 ---
